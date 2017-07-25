@@ -26,6 +26,7 @@ create table Staff(
 create table Books(
     ISBN char(13) not null,
     author varchar(40) not null,
+    title varchar(120) not null,
     publish_date date,
     genre varchar(35),
     CONSTRAINT book_pk PRIMARY KEY(ISBN)
@@ -34,7 +35,7 @@ create table Books(
 
 ### Question 4
 ```SQL
-Insert into Books values('','', TO_DATE('12/07/1994', 'dd/mm/yyyy'), 'Fantasy');
+Insert into Books values('1421421421241','Zaymon Foulds-Cook', 'The Wonders Of Oracle', TO_DATE('12/07/1994', 'dd/mm/yyyy'), 'Fantasy');
 ```
 
 ### Question 5
