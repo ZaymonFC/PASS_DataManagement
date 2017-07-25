@@ -84,7 +84,7 @@ Where staff_no = '001';
 
 ### Rollback and Commit
 To make your data update permanent, `commit;`
-To undo you data update, `rollback;`
+To undo your data update, `rollback;`
 
 ## Making Selections
 ```SQL

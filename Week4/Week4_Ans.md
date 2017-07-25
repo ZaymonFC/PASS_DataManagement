@@ -33,7 +33,11 @@ create table Books(
 ```
 
 ### Question 4
-`Insert into Books values('','', TO_DATE('12/07/1994', 'dd/mm/yyyy'), 'Fantasy');`
+```SQL
+Insert into Books values('','', TO_DATE('12/07/1994', 'dd/mm/yyyy'), 'Fantasy');
+```
 
 ### Question 5
-`Delete from Staff where staff_no ='007';`
+```SQL
+Delete from Staff where staff_no ='007';
+```
