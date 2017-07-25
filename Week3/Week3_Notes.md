@@ -95,11 +95,6 @@ Is used to retrieve data from DB
 ### SQL
 SQL can be used as all three types of database languages ^^
 
-### Oracle Data Types
-- Numbers (Number)
-- Strings (Char[fixed length], varchar2)
-- Date and time (Date)
-- Large strings and _BLOBS_
 
 
 
