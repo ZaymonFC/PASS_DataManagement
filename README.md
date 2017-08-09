@@ -10,3 +10,5 @@
 - [Week 5 Notes]()
     - [Week 5 Questions]()
     - [Week 5 Answers]()
+- [Week 6 Notes]()
+    - [Week 5 Questions]()
