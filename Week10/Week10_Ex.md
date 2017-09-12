@@ -1,4 +1,4 @@
-# Week 8 Ex
+# Week 10 Ex
 ### Knowledge Questions
 - Why is every relation generated from an ERD automatically in 1NF?
 - What is a non-key attribute?
