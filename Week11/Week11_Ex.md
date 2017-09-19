@@ -1,5 +1,5 @@
 # Week 11 Ex
-## Exam Buster - 
+## Exam Buster - Thursday 12 - 3pm G06_3.18
 ### Knowledge Questions
 1. Why is it efficient to search an ordered file? | What method do we use to search?
 2. Explain how hashed files are created and how values are stored in a hashed file
