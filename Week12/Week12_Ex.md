@@ -1,5 +1,5 @@
 # Week 11 Ex
-## Exam Buster - Thursday 12 - 3pm G06_3.18
+## Exam Buster - Thursday 12 - 3pm G06_3.18 | 28th September
 ### Knowledge Questions
 1. What is concurrency control?
 2. What is a transaction?
@@ -11,6 +11,7 @@
 8. What are the 4 ANSI defined isolation levels?
 9. What are the 2 levels of failures?
 10. How do you recover from each level?
+
 
 ### Problem Solving Questions
 For each of the following problems create a table with two concurrent transactions demonstrating how they occur
