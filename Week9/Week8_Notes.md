@@ -34,11 +34,11 @@ If we know A->B, B->C, then we can infer that A->C
 If A->B, A,C -> B,C
 
 ### Inference Rules
-Reflexivity
+##### Reflexivity
 - If B is a subset of A, then A -> B
-Augmentation
+##### Augmentation
 - If A->B, then A,C->B,C
-Transitivity
+##### Transitivity
 - If A->B and B->C, then A->C
 
 ### Closure set of a set of attributes
